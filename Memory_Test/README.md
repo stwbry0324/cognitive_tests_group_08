@@ -1,3 +1,5 @@
+NOTE: v2_Memory_test.ipynb is an improved version of v2_Memory_test.ipynb and includes changes to the test format and additional functions to collect additional data.
+
 This file contains the code and test images for the Memory Test which assesses the user's ability to memorize and recall visual objects.
 
 To run this test you will need to download v2_Memory_test.ipynb and all of the images in this folder and run them in the same file in JupyterLab.

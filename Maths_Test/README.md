@@ -1,7 +1,7 @@
 A simple test that assesses maths ability. 
 Contains 13 calculations involving basic addition, subtraction and multiplication.
 
-To access the maths ability test, open the file 'Maths Ability Test - Version 2'.
+To access the maths ability test, open the file 'FINAL - draft 4'.
 Run the code.
 
 DISCLAIMER: We wish to record your response data to an anonymised public data repository. 

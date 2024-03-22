@@ -1,4 +1,4 @@
-NOTE: v2_Memory_test.ipynb is an improved version of v2_Memory_test.ipynb and includes changes to the test format and additional functions to collect additional data.
+NOTE: v2_Memory_test.ipynb is an improved version of v2_Memory_test.ipynb and includes changes to the test format and additional functions for further data collection.
 
 This file contains the code and test images for the Memory Test which assesses the user's ability to memorize and recall visual objects.
 
